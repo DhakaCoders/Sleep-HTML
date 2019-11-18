@@ -1,0 +1,337 @@
+header.fl-hdr {
+    background: #fff;
+    -ms-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -ms-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16);
+    -webkit-box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16);
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16);
+    position: relative;
+    z-index: 5
+}
+.header-innr {
+    background: #fff;
+    padding: 12px 0
+}
+.hdr-left,
+.hdr-rgt {
+    width: 50%;
+    float: left
+}
+.hdr-left {
+    padding-right: 30px
+}
+.hdr-rgt {
+    text-align: right
+}
+.hdr-logo,
+.secure-img{
+    display: inline-block;
+    vertical-align: baseline;
+    max-width: 160px
+}
+.header .secure-img {
+    max-width: 225px
+}
+.fl-hdr img{
+    width: 100%
+}
+.fl-shipping {
+    padding-bottom: 28px;
+    background: #fff;
+    box-sizing: border-box;
+    position: relative
+}
+.fl-shipping img {
+    display: inline-block;
+    position: relative;
+    top: 36px;
+    width: 57px;
+    height: 57px
+}
+.fl-shipping .two_sec img {
+    top: 28px;
+    width: 71px;
+    height: 71px
+}
+.fl-shipping-col {
+    width: 33.333%;
+    float: left;
+    padding-left: 7px;
+    padding-right: 7px
+}
+.fl-shipping h4 {
+    color: #000;
+    font-family: 'SourceSansPro-Semibold'; 
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-top: 45px;
+    width: 100%
+}
+.fl-shipping .two_sec>h4 {
+    font-family: 'SourceSansPro-Bold';  
+    margin-top: 32px;
+}
+.fl-shipping:before {
+    content: "";
+    height: 14px;
+    width: 100%;
+    position: absolute;
+    background: #d91a1a;
+    left: 0;
+    right: 0;
+    border-radius: 50px;
+    top: 57px;
+} 
+.special-offer-con-wrp {
+    position: relative;
+    text-align: center;
+    padding: 75px 50px 95px;
+    color: #fff;
+    z-index: 1;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.special-offer-con {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-repeat: no-repeat!important;
+    background-size: cover!important;
+    background-position: center bottom!important;
+    z-index: 2
+}
+.special-offer-dsc{
+    position: relative;
+    z-index: 3
+}
+.special-offer-con-wrp h5 {
+    margin-bottom: 24px;
+	font-family: 'TitilliumWeb-SemiBoldItalic';
+    font-family: 'TitilliumWeb-SemiBold';
+}
+.special-offer-con-wrp h1 {
+    font-family: 'TitilliumWeb-Bold';
+    margin-bottom: 24px;
+    text-shadow: 1px 3px 7px #000;
+	color:#cb0f0f;
+}
+.special-offer-con-wrp h2 {
+    font-family: 'TitilliumWeb-Bold';
+    margin-bottom: 24px;
+}
+.special-offer-dsc span {
+	font-family: 'TitilliumWeb-Regular';
+    font-size: 22px;
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+
+
+
+
+
+
+
+@media(max-width: 1199px){
+    h1 {
+        font-size: 45px
+    }
+    h2 {
+        font-size: 38px
+    }
+    h3 {
+        font-size: 34px
+    }
+    h4 {
+        font-size: 22px
+    }
+    h5 {
+        font-size: 20px
+    }
+
+} 
+
+@media(max-width: 1023px){
+
+}
+
+@media(max-width: 991px){
+     h1 {
+        font-size: 35px
+    }
+    h2 {
+        font-size: 30px
+    }
+    h3 {
+        font-size: 28px
+    }
+    .fl-shipping h4 {
+        font-size: 18px
+    }
+
+}
+
+@media (max-width:830px){
+    .fl-shipping h4 {
+        font-size: 16px
+    }
+
+}
+
+@media(max-width: 767px){
+    body {
+        font-size: 18px;
+    }
+    p{
+       margin-bottom: 20px;
+    }
+    h1 {
+        font-size: 27px
+    }
+    h2 {
+        font-size: 25px
+    }
+    h3 {
+        font-size: 22px
+    }
+    h4 {
+        font-size: 20px
+    }
+    h5 {
+        font-size: 18px
+    }
+    .special-offer-con-wrp {
+        padding: 40px 20px 70px;
+    }
+
+}
+
+@media(max-width: 639px){
+    .fl-shipping .two_sec img {
+        width: 65px;
+        height: 65px
+    }
+    .fl-shipping img {
+        width: 50px;
+        height: 50px
+    }
+    .special-offer-con-wrp h5 {
+        margin-bottom: 20px;
+    }
+
+}
+ 
+@media(max-width: 575px){
+    .hdr-logo{
+        max-width: 100px;
+    }
+    .secure-img {
+        max-width: 120px;
+    }
+
+}
+
+@media(max-width: 479px){
+
+
+    h1 {
+        font-size: 25px
+    }
+    h2 {
+        font-size: 22px
+    }
+    h3 {
+        font-size: 21px
+    }
+
+
+    .fl-shipping-progress-bar {
+        margin-top: -10px
+    }
+    
+    .fl-shipping {
+        margin-left: -15px;
+        margin-right: -15px;
+        padding-bottom: 12px
+    }
+    
+    .fl-shipping h4 {
+        font-size: 14px
+    }
+    
+    .fl-shipping:before {
+        height: 12px
+    }
+    
+    .fl-shipping-col {
+        width: 30%;
+        float: left
+    }
+    
+    .fl-shipping-col.two_sec {
+        width: 40%;
+        float: left
+    }
+    
+    .fl-shipping-col.two_sec span {
+        display: block
+    }
+
+
+
+}
+
+@media(max-width: 359px){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
