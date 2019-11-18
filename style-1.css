@@ -131,6 +131,57 @@ header.fl-hdr {
 
 
 
+.fl-content-sec-3-wrp{
+    padding: 26px 0 42px;
+    background: #fff;
+}
+.fl-content-sec-3-img{
+    width: 47%;
+    float: left;
+}
+.fl-content-sec-3-des{
+    width: 53%;
+    float: left; 
+    padding-left: 30px;  
+    padding-right: 25px; 
+    padding-top: 7px;
+}
+.fl-content-sec-3-wrp img{
+    width: 100%;
+    height: auto;
+    max-width: 515px;
+}
+.fl-content-sec-3-wrp p{
+    margin-bottom: 28px;
+}
+.fl-content-sec-3-wrp p strong{
+    font-family: 'SourceSansPro-Bold';
+    font-weight: 400;
+}
+.fl-content-sec-3-wrp p:last-child {
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
