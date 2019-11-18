@@ -131,6 +131,201 @@ header.fl-hdr {
 
 
 
+.fl-doctor-intro-sec{
+    padding: 26px 0 42px;
+    background: #fff;
+}
+.fl-content-sec-3-img{
+    width: 47%;
+    float: left;
+}
+.fl-content-sec-3-des{
+    width: 53%;
+    float: left; 
+    padding-left: 30px;  
+    padding-right: 25px; 
+    padding-top: 7px;
+}
+.fl-doctor-intro-sec img{
+    width: 100%;
+    height: auto;
+    max-width: 515px;
+}
+.fl-doctor-intro-sec p{
+    margin-bottom: 28px;
+}
+.fl-doctor-intro-sec p strong{
+    font-family: 'SourceSansPro-Bold';
+    font-weight: 400;
+}
+.fl-doctor-intro-sec p:last-child {
+    margin-bottom: 0;
+}
+
+
+
+
+
+.fl-sleep-deprivation-block-1 {
+    padding-bottom: 24px;
+}
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-head{
+    background-repeat: no-repeat!important;
+    background-position: center center!important;
+    background-size: cover!important;
+    padding: 20px 15px 30px;
+    border-radius: 8px;
+    text-align: center;
+    color:#fff;
+    font-family: 'TitilliumWeb-Bold';
+    margin-bottom: 30px;
+}
+
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-two-part{
+	position: relative;
+	padding: 34px 0;
+    z-index: 1;
+}
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img{
+    background-repeat: no-repeat!important;
+    background-position: center center!important;
+    background-size: cover!important;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    right: 0;
+    left:36%;
+    z-index: 2
+}
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img img{
+    display: none;
+}
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-des{
+	position: relative;
+	z-index: 3;
+	width:52%;
+	background: #fffc;
+	padding: 32px 45px 37px 40px;
+	-webkit-box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
+}
+.fl-sleep-deprivation-des p:last-child{
+	margin: 0;
+}
+
+
+
+
+.fl-sleep-deprivation-block-2 .fl-sleep-deprivation-head{
+    padding: 20px 15px 22px;
+    text-align: center;
+    color:#010101;
+    font-family: 'TitilliumWeb-Bold';
+}
+.fl-sleep-deprivation-block-2 .fl-sleep-deprivation-head h2{
+    margin-bottom: 15px;
+}
+
+.fl-sleep-deprivation-block-2 li{
+	margin-bottom: 35px;
+}
+
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img{
+	width:32.13%;
+	float: left;
+}
+
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img:nth-child(2){
+	padding:25px 0 0 25px;
+}
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des{
+	width:67.87%;
+	float: right;
+	padding: 12px 15px 10px 27px;
+}
+.fl-sleep-deprivation-block-2 li:nth-child(2n+2) .fl-sleep-deprivation-img{
+	float: right;
+}
+.fl-sleep-deprivation-block-2 li:nth-child(2n+2) .fl-sleep-deprivation-des{
+	padding: 12px 15px 10px 27px;
+	float: left;
+}
+
+
+
+
+.fl-sleep-dep-feature-box{
+    position: relative;
+    padding-bottom: 110px;
+}
+.fl-sleep-dep-feature-box > img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 3;
+}
+.sleep-dep-feature-des-hdr{
+    text-align: center;
+    padding:0 10px 25px;
+}
+.sleep-dep-feature-des-hdr img{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.sleep-dep-feature-des-hdr h3{
+    margin-bottom: 0;
+    padding: 25px 10px 10px;
+    font-family: 'TitilliumWeb-Bold';
+}
+.sleep-dep-feature-des {
+    width: 68%;
+    border: 10px solid #000;
+    position: relative;
+    z-index: 2;
+}
+.sleep-dep-feature-des-ftr{
+    padding: 0 216px 25px 35px;
+}
+.sleep-dep-feature-des-ftr p:last-child{
+    margin-bottom: 0;
+}
+
+span.fl-txt-line-bg {
+    font-family: 'SourceSansPro-Bold';
+    display: inline-block;
+    vertical-align: baseline;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    background-size: 100% 100% !important;
+    margin-right: -12px;
+    margin-left: -12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 5px;
+    color: #000;
+}
+span.fl-txt-line-bg.innr-line-bg {
+    margin-left: -6px;
+    padding-left: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
