@@ -645,6 +645,16 @@ span.text-inline-mark-left{
     .rare-root-feature-des-hdr h2 br{
         display: none;
     }
+    .out-stock-sec .dft-text-module-normal {
+        margin-right: 0;
+    }
+    .out-stock-sec .dft-text-module {
+        margin-left: 0;
+    }
+    .fl-default-section-normal-des-img{
+        text-align: center;
+        padding-bottom: 25px;
+    }
 }
 
 
@@ -746,6 +756,9 @@ span.text-inline-mark-left{
     .fl-sec-entry-hdr h2{
         font-size: 35px;
     }
+    .fl-default-section-normal{
+        padding-top: 35px;
+    }
 }
 
 
@@ -782,7 +795,12 @@ span.text-inline-mark-left{
     .fl-absolute-grd-1 .fl-absolute-grd-1-two-part{
         padding-top: 5px;
     }
-
+    .fl-sec-entry-hdr{
+        padding-bottom: 40px;
+    }
+    .fl-ftr-top-sec .thank-you-line strong{
+        font-size: 20px;
+    }
 
 }
 
@@ -817,6 +835,9 @@ span.text-inline-mark-left{
     }
     .fl-pkg-sec-bg-hdr {
         margin-bottom: 35px;
+    }
+    .fl-btm-line-entry-sec-hdr h2 br{
+        display: none;
     }
 
 }
