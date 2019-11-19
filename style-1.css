@@ -115,12 +115,14 @@ header.fl-hdr {
 .special-offer-con-wrp h1 {
     font-family: 'TitilliumWeb-Bold';
     margin-bottom: 15px;
-    text-shadow: 1px 3px 7px #000;
-	color:#cb0f0f;
+    text-shadow: 3px 4px 1px #351e1a;
+	color:#f00f0f;
 }
 .special-offer-con-wrp h2 {
     font-family: 'TitilliumWeb-Bold';
     margin-bottom: 24px;
+    /*text-shadow: 0 0 15px #8b8b8b, 0 0 10px #8b8b8b;*/
+    text-shadow: 0 0 15px #2f2525, 0 0 10px #2f2525;
 }
 .special-offer-dsc span {
 	font-family: 'TitilliumWeb-Regular';
@@ -189,7 +191,8 @@ header.fl-hdr {
     bottom: 0;
     right: 0;
     left:36%;
-    z-index: 2
+    z-index: 2;
+    border: 5px solid #f0e8dc;
 }
 .fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img img{
     display: none;
@@ -200,12 +203,16 @@ header.fl-hdr {
 	width:50.5%;
 	background: #fffc;
 	padding: 32px 32px 37px 40px;
-	-webkit-box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
-	-moz-box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
-	box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
+	-webkit-box-shadow: 0px 0px 6px -2px rgba(0,0,0,0.9);
+	-moz-box-shadow: 0px 0px 6px -2px rgba(0,0,0,0.9);
+    box-shadow: 0px 0px 6px -2px rgba(0,0,0,0.9);
 }
 .fl-sleep-deprivation-des p {
-    margin-bottom: 26px;
+    margin-bottom: 28px;
+}
+.fl-sleep-deprivation-des p strong{
+    font-family: 'SourceSansPro-Bold';
+    font-weight: 400;
 }
 .fl-sleep-deprivation-des p:last-child{
 	margin: 0;
@@ -229,7 +236,7 @@ header.fl-hdr {
 .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des{
     width:69%;
     float: right;
-    padding: 13px 0 10px 10px;
+    padding: 13px 0 10px 22px;
 }
 .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img{
 	width:31%;
@@ -239,7 +246,7 @@ header.fl-hdr {
 	float: right;
 }
 .fl-sleep-deprivation-block-2 li:nth-child(2n+2) .fl-sleep-deprivation-des{
-	padding: 13px 10px 10px 0;
+	padding: 13px 22px 10px 0;
 	float: left;
 }
 .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img:nth-child(2){
@@ -248,16 +255,20 @@ header.fl-hdr {
 .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des h4{
     font-family: 'SourceSansPro-Bold';
     margin-bottom: 28px;
+    text-transform: uppercase;
 }
 .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des h4 span{
     color:#cb0f0f;
+}
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des p{
+    font-size: 22px;
 }
 .fl-sleep-deprivation-block-3{
     padding-top: 14px;
 }
 .fl-sleep-dep-feature-box{
     position: relative;
-    padding-bottom: 110px;
+    padding-bottom: 105px;
     margin-bottom: 45px;
 }
 .fl-sleep-dep-feature-box > img {
@@ -286,7 +297,7 @@ header.fl-hdr {
     z-index: 2;
 }
 .sleep-dep-feature-des-ftr{
-    padding: 0 216px 23px 35px;
+    padding: 0 180px 23px 35px;
 }
 .sleep-dep-feature-des-ftr p:last-child{
     margin-bottom: 0;
@@ -473,6 +484,9 @@ span.fl-txt-line-bg.innr-line-bg {
     }
     .fl-doctor-intro-sec p {
         margin-bottom: 20px;
+    }
+    .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des p {
+        font-size: 20px;
     }
 }
 

@@ -1,22 +1,26 @@
 Desktop
---------------
+--------------      
 1. https://www.screencast.com/t/rVhE5eyB
-	text shadow and text color mileni 
+	text shadow and text color mileni --done
 2. https://www.screencast.com/t/HXG931xZ
-	text shadow hobe
+	text shadow hobe ---done
 3. https://www.screencast.com/t/IXfP6XAQRps5
-	aikhane akta space hobe. &nbsp; use korte paro
+	aikhane akta space hobe. &nbsp; use korte paro ---done
 4. https://www.screencast.com/t/ruSiuaWBmZ2
-	box shadow mileni
+	box shadow mileni ---done
 5. https://www.screencast.com/t/qLNljRH0uH
-	border missing
+	border missing  ---done
 	ata amar section a ami border css diye korchi then img ta dichi border sara
 6. https://prnt.sc/pz5qsr
-	gap besi hobe
+	gap besi hobe  ---done
 7. https://prnt.sc/pz5re4
-	bold hobe
+	bold hobe  ---done
 8. https://prnt.sc/pz5t5h
-	ai text gulo uppercase hobe
+	ai text gulo uppercase hobe  ---done
 9. https://prnt.sc/pz5uhd
-	gap besi 
-	text break mileni
+	gap besi   ---done
+	text break mileni  ---done
+
+
+
+
