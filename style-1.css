@@ -86,7 +86,7 @@ header.fl-hdr {
 .special-offer-con-wrp {
     position: relative;
     text-align: center;
-    padding: 75px 50px 95px;
+    padding: 44px 50px 95px;
     color: #fff;
     z-index: 1;
     margin-left: -15px;
@@ -108,13 +108,13 @@ header.fl-hdr {
     z-index: 3
 }
 .special-offer-con-wrp h5 {
-    margin-bottom: 24px;
+    margin-bottom: 18px;
 	font-family: 'TitilliumWeb-SemiBoldItalic';
     font-family: 'TitilliumWeb-SemiBold';
 }
 .special-offer-con-wrp h1 {
     font-family: 'TitilliumWeb-Bold';
-    margin-bottom: 24px;
+    margin-bottom: 15px;
     text-shadow: 1px 3px 7px #000;
 	color:#cb0f0f;
 }
@@ -128,28 +128,28 @@ header.fl-hdr {
     display: inline-block;
     vertical-align: baseline;
 }
-
-
-
 .fl-doctor-intro-sec{
-    padding: 26px 0 42px;
+    padding: 26px 0 35px;
     background: #fff;
+}  
+.fl-doctor-intro-twopart{
+    margin-bottom: 20px; 
 }
-.fl-content-sec-3-img{
+.fl-doctor-intro-img{
     width: 47%;
     float: left;
 }
-.fl-content-sec-3-des{
-    width: 53%;
-    float: left; 
-    padding-left: 30px;  
-    padding-right: 25px; 
-    padding-top: 7px;
-}
-.fl-doctor-intro-sec img{
+.fl-doctor-intro-img img{
     width: 100%;
     height: auto;
     max-width: 515px;
+}
+.fl-doctor-intro-rgt-des {
+    width: 53%;
+    float: left;
+    padding-left: 36px;
+    padding-right: 20px;
+    padding-top: 17px;
 }
 .fl-doctor-intro-sec p{
     margin-bottom: 28px;
@@ -161,11 +161,6 @@ header.fl-hdr {
 .fl-doctor-intro-sec p:last-child {
     margin-bottom: 0;
 }
-
-
-
-
-
 .fl-sleep-deprivation-block-1 {
     padding-bottom: 24px;
 }
@@ -180,7 +175,6 @@ header.fl-hdr {
     font-family: 'TitilliumWeb-Bold';
     margin-bottom: 30px;
 }
-
 .fl-sleep-deprivation-block-1 .fl-sleep-deprivation-two-part{
 	position: relative;
 	padding: 34px 0;
@@ -203,22 +197,21 @@ header.fl-hdr {
 .fl-sleep-deprivation-block-1 .fl-sleep-deprivation-des{
 	position: relative;
 	z-index: 3;
-	width:52%;
+	width:50.5%;
 	background: #fffc;
-	padding: 32px 45px 37px 40px;
+	padding: 32px 32px 37px 40px;
 	-webkit-box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
 	box-shadow: 0px 0px 27px -18px rgba(0,0,0,0.75);
 }
+.fl-sleep-deprivation-des p {
+    margin-bottom: 26px;
+}
 .fl-sleep-deprivation-des p:last-child{
 	margin: 0;
 }
-
-
-
-
 .fl-sleep-deprivation-block-2 .fl-sleep-deprivation-head{
-    padding: 20px 15px 22px;
+    padding: 3px 15px 33px;
     text-align: center;
     color:#010101;
     font-family: 'TitilliumWeb-Bold';
@@ -226,38 +219,46 @@ header.fl-hdr {
 .fl-sleep-deprivation-block-2 .fl-sleep-deprivation-head h2{
     margin-bottom: 15px;
 }
-
+.fl-sleep-deprivation-block-2 .fl-sleep-deprivation-head-des {
+    padding-top: 17px;
+    font-family: 'SourceSansPro-Regular';
+}
 .fl-sleep-deprivation-block-2 li{
 	margin-bottom: 35px;
 }
-
-.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img{
-	width:32.13%;
-	float: left;
-}
-
-.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img:nth-child(2){
-	padding:25px 0 0 25px;
-}
 .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des{
-	width:67.87%;
-	float: right;
-	padding: 12px 15px 10px 27px;
+    width:69%;
+    float: right;
+    padding: 13px 0 10px 10px;
+}
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img{
+	width:31%;
+	float: left;
 }
 .fl-sleep-deprivation-block-2 li:nth-child(2n+2) .fl-sleep-deprivation-img{
 	float: right;
 }
 .fl-sleep-deprivation-block-2 li:nth-child(2n+2) .fl-sleep-deprivation-des{
-	padding: 12px 15px 10px 27px;
+	padding: 13px 10px 10px 0;
 	float: left;
 }
-
-
-
-
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img:nth-child(2){
+    padding:25px 0 0 15px;
+}
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des h4{
+    font-family: 'SourceSansPro-Bold';
+    margin-bottom: 28px;
+}
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des h4 span{
+    color:#cb0f0f;
+}
+.fl-sleep-deprivation-block-3{
+    padding-top: 14px;
+}
 .fl-sleep-dep-feature-box{
     position: relative;
     padding-bottom: 110px;
+    margin-bottom: 45px;
 }
 .fl-sleep-dep-feature-box > img {
     position: absolute;
@@ -285,7 +286,7 @@ header.fl-hdr {
     z-index: 2;
 }
 .sleep-dep-feature-des-ftr{
-    padding: 0 216px 25px 35px;
+    padding: 0 216px 23px 35px;
 }
 .sleep-dep-feature-des-ftr p:last-child{
     margin-bottom: 0;
@@ -347,11 +348,39 @@ span.fl-txt-line-bg.innr-line-bg {
     h5 {
         font-size: 20px
     }*/
-
+    .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des {
+        padding: 13px 0 12px 20px;
+    }    
+    .fl-sleep-deprivation-block-2 li:nth-child(2n+2) .fl-sleep-deprivation-des {
+        padding: 13px 12px 10px 0;
+    }
 } 
 
 @media(max-width: 1023px){
-
+.fl-doctor-intro-img {
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.fl-doctor-intro-rgt-des {
+    width: 100%;
+    float: left;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 25px;
+}
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img {
+    background: none!important;
+    position: static;
+    margin-bottom: 25px;
+}
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img img {
+    display: inline-block;
+}
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-des {
+    width: 100%;
+    padding: 30px 20px;
+}
 }
 
 @media(max-width: 991px){
@@ -367,7 +396,41 @@ span.fl-txt-line-bg.innr-line-bg {
     .fl-shipping h4 {
         font-size: 18px
     }
-
+    .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 25px;
+    }   
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img {
+    padding: 0 10px;
+}    
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img:nth-child(2) {
+    padding: 0 10px;
+}
+.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des {
+    width: 100%;
+    float: right;
+    padding: 15px 10px 20px;
+}
+.fl-sleep-deprivation-block-2 .fl-sleep-deprivation-head h2 br{
+    display: none;
+}
+.fl-sleep-dep-feature-box {
+    padding-bottom: 0;
+    text-align: center;
+}
+.fl-sleep-dep-feature-box > img {
+    position: static;
+}
+.sleep-dep-feature-des {
+    width: 100%;
+    border: 4px solid #000;
+    margin-top: 15px;
+}
+.sleep-dep-feature-des-ftr {
+    padding: 10px 15px 30px;
+    text-align: left;
+}
 }
 
 @media (max-width:830px){
@@ -400,9 +463,17 @@ span.fl-txt-line-bg.innr-line-bg {
         font-size: 18px
     }*/
     .special-offer-con-wrp {
-        padding: 40px 20px 70px;
+        padding: 40px 15px 65px;
     }
-
+    .special-offer-dsc span {
+        font-family: 'TitilliumWeb-Regular';
+        font-size: 18px;
+        display: inline-block;
+        vertical-align: baseline;
+    }
+    .fl-doctor-intro-sec p {
+        margin-bottom: 20px;
+    }
 }
 
 @media(max-width: 639px){
@@ -475,8 +546,12 @@ span.fl-txt-line-bg.innr-line-bg {
     .fl-shipping-col.two_sec span {
         display: block
     }
-
-
+    .special-offer-con-wrp h5 {
+       margin-bottom: 12px;
+    }
+    .special-offer-con-wrp h2 {
+        margin-bottom: 12px;
+    }
 
 }
 
