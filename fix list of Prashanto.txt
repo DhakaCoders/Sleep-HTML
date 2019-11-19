@@ -1,0 +1,22 @@
+Desktop
+--------------
+1. https://www.screencast.com/t/rVhE5eyB
+	text shadow and text color mileni 
+2. https://www.screencast.com/t/HXG931xZ
+	text shadow hobe
+3. https://www.screencast.com/t/IXfP6XAQRps5
+	aikhane akta space hobe. &nbsp; use korte paro
+4. https://www.screencast.com/t/ruSiuaWBmZ2
+	box shadow mileni
+5. https://www.screencast.com/t/qLNljRH0uH
+	border missing
+	ata amar section a ami border css diye korchi then img ta dichi border sara
+6. https://prnt.sc/pz5qsr
+	gap besi hobe
+7. https://prnt.sc/pz5re4
+	bold hobe
+8. https://prnt.sc/pz5t5h
+	ai text gulo uppercase hobe
+9. https://prnt.sc/pz5uhd
+	gap besi 
+	text break mileni
