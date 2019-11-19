@@ -3,6 +3,7 @@
     background-position: center center !important;
     background-size: cover !important;
     padding-bottom: 15px;
+    position: relative;
 }
 .fl-sleep-cycle-head {
     background-repeat: no-repeat !important;
@@ -46,8 +47,8 @@ span.fl-txt-line-bg{
 }
 
 .fl-our-team-two-part-sec{
-    padding-top: 15px;
-    padding-bottom: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .fl-our-team-two-grd-head{
     padding: 20px 15px 22px;
@@ -209,7 +210,7 @@ span.fl-txt-line-bg{
     display: block;
     position: relative;
     font-style: normal;
-    padding: 25px 35px 30px 30px;
+    padding: 25px 55px 30px 30px;
     font-family: 'SourceSansPro-Regular';
     font-size: 24px;
     line-height: 28px;
@@ -319,7 +320,7 @@ span.fl-txt-line-bg{
         margin-top: -50px;
     }
     .fl-feature-natural-sec{
-        padding-bottom: 50px;
+        padding-bottom: 30px;
     }
     .fl-advanced-two-grid-inr {
         height: auto;
