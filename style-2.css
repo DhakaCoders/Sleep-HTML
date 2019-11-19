@@ -23,13 +23,16 @@
 .fl-sleep-cycle-two-part{
 	padding-top: 15px;
 }
-.fl-sleep-cycle-two-part .fl-sleep-cycle-img{
-    width: 48.80%;
-    padding-top: 20px;
+.fl-sleep-cycle-two-part .fl-sleep-cycle-img {
+    width:50%;
+    padding-top: 30px;
 }
 .fl-sleep-cycle-two-part .fl-sleep-cycle-des{
-    width: 51.20%;
-    padding: 10px 15px 10px 10px;
+    width: 50%;
+    padding: 10px 15px 10px 15px;
+}
+.fl-sleep-cycle-des p{
+    margin-bottom: 28px;
 }
 span.fl-txt-line-bg{
     font-family: 'SourceSansPro-Bold';
