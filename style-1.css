@@ -168,7 +168,7 @@ header.fl-hdr {
 }
 .fl-sleep-deprivation-block-1 .fl-sleep-deprivation-head{
     background-repeat: no-repeat!important;
-    background-position: center center!important;
+    background-position: center bottom 1px!important;
     background-size: cover!important;
     padding: 20px 15px 30px;
     border-radius: 8px;
@@ -203,9 +203,9 @@ header.fl-hdr {
 	width:50.5%;
 	background: #fffc;
 	padding: 32px 32px 37px 40px;
-	-webkit-box-shadow: 0px 0px 6px -2px rgba(0,0,0,0.9);
-	-moz-box-shadow: 0px 0px 6px -2px rgba(0,0,0,0.9);
-    box-shadow: 0px 0px 6px -2px rgba(0,0,0,0.9);
+    -webkit-box-shadow: 0px 0px 8px -1px rgba(195,192,192,1);
+    -moz-box-shadow: 0px 0px 8px -1px rgba(195,192,192,1);
+    box-shadow: 0px 0px 8px -1px rgba(195,192,192,1);
 }
 .fl-sleep-deprivation-des p {
     margin-bottom: 28px;
@@ -323,17 +323,22 @@ span.fl-txt-line-bg.innr-line-bg {
 }
 
 
+header, 
+.fl-sleep-deprivation-block-3,
+.fl-footer-wrap,
+.out-stock-sec-hdr-1,
+.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-head,
+.fl-absolute-grd-sec-hdr,
+.fl-sleep-deprivation-block-2,
+section{display: none;}
 
-
-
-
-
-
-
-
-
-
-
+.fl-sleep-deprivation-sec{
+    padding-top: 50px;
+}
+.fl-sleep-deprivation-sec,
+.fl-absolute-grd-section{
+    display: block;   
+}
 
 
 
@@ -344,104 +349,87 @@ span.fl-txt-line-bg.innr-line-bg {
 
 
 @media(max-width: 1199px){
-/*    h1 {
-        font-size: 45px
-    }
-    h2 {
-        font-size: 38px
-    }
-    h3 {
-        font-size: 34px
-    }
-    h4 {
-        font-size: 22px
-    }
-    h5 {
-        font-size: 20px
-    }*/
     .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des {
         padding: 13px 0 12px 20px;
     }    
     .fl-sleep-deprivation-block-2 li:nth-child(2n+2) .fl-sleep-deprivation-des {
         padding: 13px 12px 10px 0;
     }
+    .sleep-dep-feature-des-ftr {
+        padding: 0 200px 23px 35px;
+    }
 } 
 
 @media(max-width: 1023px){
-.fl-doctor-intro-img {
-    width: 100%;
-    float: left;
-    text-align: center;
-}
-.fl-doctor-intro-rgt-des {
-    width: 100%;
-    float: left;
-    padding-left: 0;
-    padding-right: 0;
-    padding-top: 25px;
-}
-.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img {
-    background: none!important;
-    position: static;
-    margin-bottom: 25px;
-}
-.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img img {
-    display: inline-block;
-}
-.fl-sleep-deprivation-block-1 .fl-sleep-deprivation-des {
-    width: 100%;
-    padding: 30px 20px;
-}
+    .fl-doctor-intro-img {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .fl-doctor-intro-rgt-des {
+        width: 100%;
+        float: left;
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 25px;
+    }
+    .fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img {
+        background: none!important;
+        position: static;
+        margin-bottom: 25px;
+    }
+    .fl-sleep-deprivation-block-1 .fl-sleep-deprivation-img img {
+        display: inline-block;
+    }
+    .fl-sleep-deprivation-block-1 .fl-sleep-deprivation-des {
+        width: 100%;
+        padding: 30px 20px;
+    }
+
 }
 
 @media(max-width: 991px){
-/*     h1 {
-        font-size: 35px
-    }
-    h2 {
-        font-size: 30px
-    }
-    h3 {
-        font-size: 28px
-    }*/
     .fl-shipping h4 {
         font-size: 18px
+    }
+    .fl-sleep-deprivation-block-1 .fl-sleep-deprivation-two-part {
+        padding: 10px 0 30px;
     }
     .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img {
         width: 100%;
         text-align: center;
         margin-bottom: 25px;
     }   
-.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img {
-    padding: 0 10px;
-}    
-.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img:nth-child(2) {
-    padding: 0 10px;
-}
-.fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des {
-    width: 100%;
-    float: right;
-    padding: 15px 10px 20px;
-}
-.fl-sleep-deprivation-block-2 .fl-sleep-deprivation-head h2 br{
-    display: none;
-}
-.fl-sleep-dep-feature-box {
-    padding-bottom: 0;
-    text-align: center;
-}
-.fl-sleep-dep-feature-box > img {
-    position: static;
-}
-.sleep-dep-feature-des {
-    width: 100%;
-    border: 4px solid #000;
-    margin-top: 15px;
-}
-.sleep-dep-feature-des-ftr {
-    padding: 10px 15px 30px;
-    text-align: left;
-}
+    .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img {
+        padding: 0 10px;
+    }    
+    .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-img img:nth-child(2) {
+        padding: 0 10px;
+    }
+    .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des {
+        width: 100%;
+        float: right;
+        padding: 15px 10px 20px;
+    }
+    .fl-sleep-deprivation-block-2 .fl-sleep-deprivation-head h2 br{
+        display: none;
+    }
+    .fl-sleep-dep-feature-box {
+        padding-bottom: 0;
+        text-align: center;
+    }
+    .fl-sleep-dep-feature-box > img {
+        position: static;
+    }
+    .sleep-dep-feature-des {
+        width: 100%;
+        border: 4px solid #000;
+        margin-top: 15px;
+    }
+    .sleep-dep-feature-des-ftr {
+        padding: 10px 15px 30px;
+        text-align: left;
+    }
 }
 
 @media (max-width:830px){
@@ -452,27 +440,6 @@ span.fl-txt-line-bg.innr-line-bg {
 }
 
 @media(max-width: 767px){
-/*    body {
-        font-size: 18px;
-    }
-    p{
-       margin-bottom: 20px;
-    }
-    h1 {
-        font-size: 27px
-    }
-    h2 {
-        font-size: 25px
-    }
-    h3 {
-        font-size: 22px
-    }
-    h4 {
-        font-size: 20px
-    }
-    h5 {
-        font-size: 18px
-    }*/
     .special-offer-con-wrp {
         padding: 40px 15px 65px;
     }
@@ -511,6 +478,9 @@ span.fl-txt-line-bg.innr-line-bg {
     }
     .secure-img {
         max-width: 120px;
+    }
+    .sleep-dep-feature-des-hdr h3 br{
+        display: none;
     }
 
 }
