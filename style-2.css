@@ -377,6 +377,10 @@ span.fl-txt-line-bg{
         font-size: 20px;
         line-height: 26px;
     }
+    .dft-blockquote-ftr span {
+        font-size: 20px;
+        line-height: 22px;
+    }
     .dft-blockquote-row-item {
         padding-top: 30px;
     }
