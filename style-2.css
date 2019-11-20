@@ -48,6 +48,9 @@ span.fl-txt-line-bg{
     padding-bottom: 5px;
     color: #000;
 }
+.line-bg-mrg-10{
+    padding-left: 12px !important;
+}
 
 .fl-our-team-two-part-sec{
     padding-top: 10px;
@@ -252,8 +255,7 @@ span.fl-txt-line-bg{
     .show-md{
         display: block!important;
     }
-    .fl-sleep-cycle-head h2 br,
-    .fl-our-team-two-grd-head h2 br{
+    .fl-sleep-cycle-head h2 br{
         display: none;
     }
     .fl-sleep-cycle-two-part .fl-sleep-cycle-img {
@@ -304,6 +306,9 @@ span.fl-txt-line-bg{
     .fl-advanced-two-grid-dsc h4{
         margin-top: 0;
     }
+    .fl-sleep-cycle-head h2 {
+        min-height: 100px;
+    }
 
 }
 
@@ -343,6 +348,15 @@ span.fl-txt-line-bg{
     .dft-blockquote-row-item blockquote em {
         padding: 25px 25px 30px 25px;
     }
+    .fl-sleep-cycle-head h2 {
+        min-height: 80px;
+    }
+    .fl-paired-block-4 .fl-paired-head{
+        padding-bottom: 20px !important;
+    }
+    .fl-our-team-two-grd-head h2 br{
+        display: none;
+    }
         
 }
 
@@ -363,10 +377,13 @@ span.fl-txt-line-bg{
     }
     .dft-blockquote-row-item blockquote em {
         padding: 20px 15px 25px 15px;
+        font-size: 20px;
+        line-height: 26px;
     }
     .dft-blockquote-row-item {
         padding-top: 30px;
     }
+    
     
     
 }
@@ -396,6 +413,7 @@ span.fl-txt-line-bg{
         height: 395px !important;
         width: 100%;
     }
+
 }
 
 @media(max-width: 459px){
