@@ -7,3 +7,19 @@ Desktop
 3. https://www.screencast.com/t/0oRlmyt8Dbs5
 	box shadow ta mileni
 
+Responsive
+-------------------
+1. https://www.screencast.com/t/vHr6hF7CU7
+	bg kata porche
+2. https://www.screencast.com/t/AxQVuBt8Mr
+	991 px a bottom gap ta aktu komay daw
+3. https://www.screencast.com/t/GPz8OLWCzCShs
+	767 te font size komate hobe
+4. https://www.screencast.com/t/enIvvn4nWOR
+	ai heading text ta 991 thake br ta none koro, 1199 a kharap dekhasche
+
+Desktop
+-----------
+1. https://www.screencast.com/t/SNdm1UfH34Kb
+	at text ta dhueke gechi besi
+

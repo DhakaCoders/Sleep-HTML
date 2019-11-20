@@ -22,5 +22,35 @@ Desktop
 	text break mileni  ---done
 
 
+Responsive
+---------------
+1. https://www.screencast.com/t/HniM9hVqx
+prefix missing 
+
+2. https://www.screencast.com/t/a3NG7vU7Zw
+bg-postiton a ata apply koro
+
+
+3. https://www.screencast.com/t/g6xgML3GaQ
+ai section ar markup amr section thake dekhe niye fix koro
+
+
+4. https://www.screencast.com/t/gU7JRmOyt
+gap onk besi 
+jokhon full-width hobe tokhon gap ta motate hobe
+just ai part tuku koro 
+onno section a lagle jaschi
+
+5. https://www.screencast.com/t/41CSGMafGJ1
+lage geche
+
+
+6. https://www.screencast.com/t/tM27CHFj1
+text img ar vitore dhuke jasche
+
+
+7. https://www.screencast.com/t/EPB5aXQCcV
+575 a br none kore daw
+
 
 
