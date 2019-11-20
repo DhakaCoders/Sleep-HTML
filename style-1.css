@@ -115,13 +115,16 @@ header.fl-hdr {
 .special-offer-con-wrp h1 {
     font-family: 'TitilliumWeb-Bold';
     margin-bottom: 15px;
+    -ms-text-shadow:  3px 4px 1px #351e1a; 
+    -webkit-text-shadow:  3px 4px 1px #351e1a;
     text-shadow: 3px 4px 1px #351e1a;
 	color:#f00f0f;
 }
 .special-offer-con-wrp h2 {
     font-family: 'TitilliumWeb-Bold';
     margin-bottom: 24px;
-    /*text-shadow: 0 0 15px #8b8b8b, 0 0 10px #8b8b8b;*/
+    -ms-text-shadow: 0 0 15px #2f2525, 0 0 10px #2f2525;
+    -webkit-text-shadow: 0 0 15px #2f2525, 0 0 10px #2f2525;
     text-shadow: 0 0 15px #2f2525, 0 0 10px #2f2525;
 }
 .special-offer-dsc span {

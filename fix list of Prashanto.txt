@@ -25,32 +25,32 @@ Desktop
 Responsive
 ---------------
 1. https://www.screencast.com/t/HniM9hVqx
-prefix missing 
+prefix missing   ---done
 
 2. https://www.screencast.com/t/a3NG7vU7Zw
-bg-postiton a ata apply koro
+bg-postiton a ata apply koro  ---done
 
 
 3. https://www.screencast.com/t/g6xgML3GaQ
-ai section ar markup amr section thake dekhe niye fix koro
+ai section ar markup amr section thake dekhe niye fix koro  ---done
 
 
 4. https://www.screencast.com/t/gU7JRmOyt
-gap onk besi 
+gap onk besi   ---done
 jokhon full-width hobe tokhon gap ta motate hobe
 just ai part tuku koro 
 onno section a lagle jaschi
 
 5. https://www.screencast.com/t/41CSGMafGJ1
-lage geche
+lage geche  ---done
 
 
 6. https://www.screencast.com/t/tM27CHFj1
-text img ar vitore dhuke jasche
+text img ar vitore dhuke jasche  ---done
 
 
 7. https://www.screencast.com/t/EPB5aXQCcV
-575 a br none kore daw
+575 a br none kore daw  ---done
 
 
 
