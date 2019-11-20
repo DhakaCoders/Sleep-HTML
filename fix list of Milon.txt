@@ -13,7 +13,7 @@ Responsive
 	bg kata porche
 2. https://www.screencast.com/t/AxQVuBt8Mr
 	991 px a bottom gap ta aktu komay daw
-3. https://www.screencast.com/t/GPz8OLWCzCShs
+3. https://www.screencast.com/t/fCVZV5Ac17V
 	767 te font size komate hobe
 4. https://www.screencast.com/t/enIvvn4nWOR
 	ai heading text ta 991 thake br ta none koro, 1199 a kharap dekhasche
