@@ -255,9 +255,6 @@ span.fl-txt-line-bg{
     .show-md{
         display: block!important;
     }
-    .fl-sleep-cycle-head h2 br{
-        display: none;
-    }
     .fl-sleep-cycle-two-part .fl-sleep-cycle-img {
         width: 100%;
         padding-top: 0;
@@ -412,6 +409,9 @@ span.fl-txt-line-bg{
     .fl-adv-two-grid-img-lft {
         height: 395px !important;
         width: 100%;
+    }
+    .fl-sleep-cycle-head h2 br{
+        display: none;
     }
 
 }
