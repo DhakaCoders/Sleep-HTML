@@ -113,6 +113,7 @@ header.fl-hdr {
 .special-offer-con-wrp h5 em{
     font-style: normal;
     font-family: 'TitilliumWeb-SemiBold';
+    display: block;
 }
 .special-offer-con-wrp h1 {
     font-family: 'TitilliumWeb-Bold';
