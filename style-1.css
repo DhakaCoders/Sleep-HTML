@@ -109,7 +109,9 @@ header.fl-hdr {
 }
 .special-offer-con-wrp h5 {
     margin-bottom: 18px;
-	font-family: 'TitilliumWeb-SemiBoldItalic';
+}
+.special-offer-con-wrp h5 em{
+    font-style: normal;
     font-family: 'TitilliumWeb-SemiBold';
 }
 .special-offer-con-wrp h1 {
