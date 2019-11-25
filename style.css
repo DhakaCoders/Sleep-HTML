@@ -2,29 +2,37 @@
     font-family: 'SourceSansPro-Regular';
     src: url(assets/fonts/SourceSansPro-Regular/SourceSansPro-Regular.woff2) format('woff2'), 
          url(assets/fonts/SourceSansPro-Regular/SourceSansPro-Regular.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 @font-face {
     font-family: 'SourceSansPro-Semibold';
     src: url(assets/fonts/SourceSansPro-Semibold/SourceSansPro-Semibold.woff2) format('woff2'), 
          url(assets/fonts/SourceSansPro-Semibold/SourceSansPro-Semibold.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 @font-face {
     font-family: 'SourceSansPro-Bold';
     src: url(assets/fonts/SourceSansPro-Bold/SourceSansPro-Bold.woff2) format('woff2'), 
          url(assets/fonts/SourceSansPro-Bold/SourceSansPro-Bold.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 @font-face {
     font-family: 'SourceSansPro-BoldItalic';
     src: url(assets/fonts/SourceSansPro-BoldItalic/SourceSansPro-BoldItalic.woff2) format('woff2'), 
          url(assets/fonts/SourceSansPro-BoldItalic/SourceSansPro-BoldItalic.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 
 
@@ -33,67 +41,84 @@
     font-family: 'TitilliumWeb-Regular';
     src: url(assets/fonts/TitilliumWeb-Regular/TitilliumWeb-Regular.woff2) format('woff2'), 
          url(assets/fonts/TitilliumWeb-Regular/TitilliumWeb-Regular.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 @font-face {
     font-family: 'TitilliumWeb-Bold';
     src: url(assets/fonts/TitilliumWeb-Bold/TitilliumWeb-Bold.woff2) format('woff2'), 
          url(assets/fonts/TitilliumWeb-Bold/TitilliumWeb-Bold.woff) format('woff');
-    font-weight: ;
-    font-style: normal
-}
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}   
 
 @font-face {
     font-family: 'TitilliumWeb-SemiBold';
     src: url(assets/fonts/TitilliumWeb-SemiBold/TitilliumWeb-SemiBold.woff2) format('woff2'), 
          url(assets/fonts/TitilliumWeb-SemiBold/TitilliumWeb-SemiBold.woff) format('woff');
-    font-weight: ;
+    font-weight: normal;
     font-style: normal;
+    font-display: swap;
+    
 }
 @font-face {
     font-family: 'TitilliumWeb-SemiBoldItalic';
     src: url(assets/fonts/TitilliumWeb-SemiBoldItalic/TitilliumWeb-SemiBoldItalic.woff2) format('woff2'), 
          url(assets/fonts/TitilliumWeb-SemiBoldItalic/TitilliumWeb-SemiBoldItalic.woff) format('woff');
-    font-weight: ;
+    font-weight: normal;
     font-style: normal;
+    font-display: swap;
+    
 }
 @font-face {
     font-family: 'Barlow-Medium';
     src: url(assets/fonts/Barlow-Medium/Barlow-Medium.woff2) format('woff2'), 
          url(assets/fonts/Barlow-Medium/Barlow-Medium.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 
 @font-face {
     font-family: 'Barlow-Bold';
     src: url(assets/fonts/Barlow-Bold/barlow-bold-webfont.woff2) format('woff2'), 
          url(assets/fonts/Barlow-Bold/barlow-bold-webfont.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 
 @font-face {
-font-family: 'Barlow-Extrabold';
-src: url(assets/fonts/Barlow-Extrabold/barlow-extrabold-webfont.woff2) format('woff2'), 
-url(assets/fonts/Barlow-Extrabold/barlow-extrabold-webfont.woff) format('woff');
-font-weight: ; 
-font-style: normal
+    font-family: 'Barlow-Extrabold';
+    src: url(assets/fonts/Barlow-ExtraBold/barlow-extrabold-webfont.woff2) format('woff2'), 
+    url(assets/fonts/Barlow-ExtraBold/barlow-extrabold-webfont.woff) format('woff');
+    font-weight: normal; 
+    font-style: normal;
+    font-display: swap;
+    
 }
 @font-face {
     font-family: 'BarlowCondensed-Regular';
     src: url(assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff2) format('woff2'), 
          url(assets/fonts/BarlowCondensed-Regular/BarlowCondensed-Regular.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 @font-face {
     font-family: 'BarlowCondensed-Bold';
     src: url(assets/fonts/BarlowCondensed-Bold/barlowcondensed-bold-webfont.woff2) format('woff2'), 
          url(assets/fonts/BarlowCondensed-Bold/barlowcondensed-bold-webfont.woff) format('woff');
-    font-weight: ;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 
 
@@ -101,8 +126,10 @@ font-style: normal
     font-family: 'Montserrat-Regular';
     src: url(assets/fonts/Montserrat-Regular/Montserrat-Regular.woff2) format('woff2'), 
          url(assets/fonts/Montserrat-Regular/Montserrat-Regular.woff) format('woff');
-    font-weight:;
-    font-style: normal
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    
 }
 
 
