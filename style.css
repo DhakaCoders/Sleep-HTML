@@ -763,6 +763,7 @@ span.fl-txt-line-bg{
     margin-bottom: 20px;
     line-height: 27px;
 }
+
 .fl-advanced-two-grid-dsc h4{
     margin: 0;
     font-family: 'SourceSansPro-Bold';
@@ -1474,6 +1475,9 @@ span.text-inline-mark-left{
     h5 {
         font-size: 20px
     }
+    .fl-advanced-two-grid-dsc p span{
+        display: inline!important;
+    }
     .fl-sleep-deprivation-block-2 li .fl-sleep-deprivation-des {
         padding: 13px 0 12px 20px;
     }    
@@ -1565,6 +1569,9 @@ span.text-inline-mark-left{
     .fl-default-section-normal-des-img{
         text-align: center;
         padding-bottom: 25px;
+    }
+    .out-stock-sec .dft-text-module-normal p br{
+        display: none;
     }
 } 
 
